@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes and References
 uid: 58652a2f-ded8-c1f1-25a8-12c4d5a6be42
 ---
@@ -58,7 +61,7 @@ Introduction to Numerical Fluid Mechanics: Models to Simulations, Error Types. A
 
 [Lecture 1 (PDF - 3.1MB)]({{< baseurl >}}/resources/mit2_29s15_lecture1)
 
-[MATLAB® Scripts (ZIP)]({{< baseurl >}}/resources/codes_1_2p29_s15) (This file contains: 3 .m files.)
+[MATLAB{{< sup "®" >}} Scripts (ZIP)]({{< baseurl >}}/resources/codes_1_2p29_s15) (This file contains: 3 .m files.)
 
 
 {{< tdclose >}}

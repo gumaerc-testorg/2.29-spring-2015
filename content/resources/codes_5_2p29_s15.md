@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This special resource contains the information regarding codes 5.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-29-numerical-fluid-mechanics-spring-2015/77bfc559d71acd47a4c2fc87ec036185_codes_5_2p29_S15.zip
+file: /media/courses/2-29-numerical-fluid-mechanics-spring-2015/77bfc559d71acd47a4c2fc87ec036185_codes_5_2p29_S15.zip
 file_type: application/zip
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes and References
+parent_type: CourseSection
 resourcetype: Other
 title: codes_5_2p29_S15.zip
 uid: 77bfc559-d71a-cd47-a4c2-fc87ec036185

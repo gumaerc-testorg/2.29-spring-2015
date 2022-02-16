@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains the information regarding lecture 5 slides.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-29-numerical-fluid-mechanics-spring-2015/911ee683a874c35ef3d00b63922e97ce_MIT2_29S15_Lecture5.pdf
+file: /media/courses/2-29-numerical-fluid-mechanics-spring-2015/911ee683a874c35ef3d00b63922e97ce_MIT2_29S15_Lecture5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes and References
+parent_type: CourseSection
 resourcetype: Document
 title: 2.29 Numerical Fluid Mechanics Lecture 5 Slides
 uid: 911ee683-a874-c35e-f3d0-0b63922e97ce

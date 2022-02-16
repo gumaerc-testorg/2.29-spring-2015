@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains the information regarding lecture 14 slides.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-29-numerical-fluid-mechanics-spring-2015/b9ada91abb3ab7910c87f8193c6c6611_MIT2_29S15_Lecture14.pdf
+file: /media/courses/2-29-numerical-fluid-mechanics-spring-2015/b9ada91abb3ab7910c87f8193c6c6611_MIT2_29S15_Lecture14.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes and References
+parent_type: CourseSection
 resourcetype: Document
 title: 2.29 Numerical Fluid Mechanics Lecture 14 Slides
 uid: b9ada91a-bb3a-b791-0c87-f8193c6c6611

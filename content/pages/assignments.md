@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 18f8e3b9-0e75-225c-4548-7e4c60e79872
 ---
@@ -70,7 +73,7 @@ Due: Lecture 9
 
 [Node Ordering, Numbering, and Boundary Conditions (PDF)]({{< baseurl >}}/resources/mit2_29s15_node_ordering)
 
-[MATLAB® Codes for Problem Set 3 (ZIP)]({{< baseurl >}}/resources/ps3_2_29_sp2015_codes_final) (This file contains: 6 .m file.)
+[MATLAB{{< sup "®" >}} Codes for Problem Set 3 (ZIP)]({{< baseurl >}}/resources/ps3_2_29_sp2015_codes_final) (This file contains: 6 .m file.)
 
 
 {{< tdclose >}}

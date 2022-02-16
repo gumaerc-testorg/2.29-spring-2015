@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 026abf13-d62c-8939-5820-02ec50a4e6f1
 ---
@@ -44,7 +46,7 @@ Introduction to numerical fluid mechanics: Models to simulations, error types. A
 R1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to MATLAB®
+Introduction to MATLAB{{< sup "®" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  
