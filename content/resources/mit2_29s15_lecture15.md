@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes and References
 parent_type: CourseSection
+parent_uid: 58652a2f-ded8-c1f1-25a8-12c4d5a6be42
 resourcetype: Document
 title: 2.29 Numerical Fluid Mechanics Lecture 15 Slides
 uid: 07fd2c48-de5c-2297-8e05-5e01a18a50de

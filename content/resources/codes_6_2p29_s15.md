@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes and References
 parent_type: CourseSection
+parent_uid: 58652a2f-ded8-c1f1-25a8-12c4d5a6be42
 resourcetype: Other
 title: codes_6_2p29_S15.zip
 uid: afe71aaa-7980-7a64-53b3-eb772452dc05

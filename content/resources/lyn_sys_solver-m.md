@@ -1,8 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/2-29-numerical-fluid-mechanics-spring-2015/b5e5221631e49419e1cdd677782e6518_NewtonRaphson_skel.zip
-file_type: application/zip
+file: /media/courses/2-29-numerical-fluid-mechanics-spring-2015/509e762cbc01f802a3cf44725eb61bd5_Lyn_sys_solver.m.txt
+file_type: text/plain
 learning_resource_types:
 - Assignments
 ocw_type: OCWFile
@@ -10,6 +10,6 @@ parent_title: Assignments
 parent_type: CourseSection
 parent_uid: 18f8e3b9-0e75-225c-4548-7e4c60e79872
 resourcetype: Other
-title: NewtonRaphson_skel.zip
-uid: b5e52216-31e4-9419-e1cd-d677782e6518
+title: Lyn_sys_solver.m.txt
+uid: 509e762c-bc01-f802-a3cf-44725eb61bd5
 ---

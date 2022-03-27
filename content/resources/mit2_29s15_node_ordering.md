@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 18f8e3b9-0e75-225c-4548-7e4c60e79872
 resourcetype: Document
 title: Node Ordering, Numbering, and Boundary Conditions
 uid: cc4c9494-3699-3bc5-6aa2-09d1dcf31ad8
