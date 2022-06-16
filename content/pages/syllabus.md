@@ -1,9 +1,16 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, objectives, grading, homework assignments, coding
+  and software, quizzes, the final project, and textbooks.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: b25852e6-ae45-a8dd-7181-86690fa64055
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
