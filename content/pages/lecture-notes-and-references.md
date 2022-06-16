@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides lecture slides, MATLAB scripts, readings, and references
+  for each session of the course.
 draft: false
 learning_resource_types:
 - Lecture Notes
