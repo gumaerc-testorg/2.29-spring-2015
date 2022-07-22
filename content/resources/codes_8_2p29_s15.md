@@ -5,6 +5,7 @@ file: /courses/2-29-numerical-fluid-mechanics-spring-2015/00a7d2aa8c8c8cae0fc109
 file_type: application/zip
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes and References
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This special resource contains the information regarding codes 8.
-

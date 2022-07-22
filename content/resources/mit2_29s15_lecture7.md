@@ -5,6 +5,7 @@ file: /courses/2-29-numerical-fluid-mechanics-spring-2015/1839ca0d0ab0b2de100c75
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes and References
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the information regarding lecture 7 slides.
-

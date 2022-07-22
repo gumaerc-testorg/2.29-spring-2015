@@ -5,6 +5,7 @@ file: /courses/2-29-numerical-fluid-mechanics-spring-2015/b5e5221631e49419e1cdd6
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

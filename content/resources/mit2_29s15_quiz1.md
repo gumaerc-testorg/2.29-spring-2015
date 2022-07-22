@@ -5,6 +5,7 @@ file: /courses/2-29-numerical-fluid-mechanics-spring-2015/22e07c07313fcf39931706
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Quizzes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains information regarding quiz 1.
-
