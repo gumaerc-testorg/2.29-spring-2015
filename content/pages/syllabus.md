@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, objectives, grading, homework assignments, coding
+  and software, quizzes, the final project, and textbooks.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: b25852e6-ae45-a8dd-7181-86690fa64055
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -16,7 +25,7 @@ Students are strongly encouraged to attend lectures and recitations.
 Description
 -----------
 
-This course is an introduction to numerical methods and MATLAB®: Errors, condition numbers and roots of equations. Topics covered include Navier-stokes; direct and iterative methods for linear systems; finite differences for elliptic, parabolic and hyperbolic equations; Fourier decomposition, error analysis and stability; high-order and compact finite-differences; finite volume methods; time marching methods; Navier-stokes solvers; grid generation; finite volumes on complex geometries; finite element methods; spectral methods; boundary element and panel methods; turbulent flows; boundary layers; and Lagrangian coherent structures (LCSs).
+This course is an introduction to numerical methods and MATLAB{{< sup "®" >}}: Errors, condition numbers and roots of equations. Topics covered include Navier-stokes; direct and iterative methods for linear systems; finite differences for elliptic, parabolic and hyperbolic equations; Fourier decomposition, error analysis and stability; high-order and compact finite-differences; finite volume methods; time marching methods; Navier-stokes solvers; grid generation; finite volumes on complex geometries; finite element methods; spectral methods; boundary element and panel methods; turbulent flows; boundary layers; and Lagrangian coherent structures (LCSs).
 
 Prerequisites
 -------------

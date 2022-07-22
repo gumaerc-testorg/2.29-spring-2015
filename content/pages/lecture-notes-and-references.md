@@ -1,9 +1,18 @@
 ---
 content_type: page
+description: This section provides lecture slides, MATLAB scripts, readings, and references
+  for each session of the course.
+draft: false
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes and References
 uid: 58652a2f-ded8-c1f1-25a8-12c4d5a6be42
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
-
 References Key
 --------------
 
@@ -56,9 +65,9 @@ Introduction to Numerical Fluid Mechanics: Models to Simulations, Error Types. A
 {{< tdopen >}}
 
 
-[Lecture 1 (PDF - 3.1MB)]({{< baseurl >}}/resources/mit2_29s15_lecture1)
+{{% resource_link 0c372143-d052-6a89-6a7a-3f0536a04f25 "Lecture 1 (PDF - 3.1MB)" %}}
 
-[MATLAB® Scripts (ZIP)]({{< baseurl >}}/resources/codes_1_2p29_s15) (This file contains: 3 .m files.)
+{{% resource_link a6e39e36-efe1-2a94-765a-b2263184e5e9 "MATLAB® Scripts (ZIP)" %}} (This file contains: 3 .m files.)
 
 
 {{< tdclose >}}
@@ -89,9 +98,9 @@ Roots of Non-linear Equations–introduction and Bracketing Methods.
 {{< tdopen >}}
 
 
-[Lecture 2 (PDF)]({{< baseurl >}}/resources/mit2_29s15_lecture2)
+{{% resource_link 7d1ea1db-3ee8-1407-052e-a377ac6f4fde "Lecture 2 (PDF)" %}}
 
-[MATLAB Scripts (ZIP)]({{< baseurl >}}/resources/codes_2_2p29_s15) (This file contains: 6 .m files.)
+{{% resource_link c5a3487b-18c4-6bf4-e30c-0005bc2daed0 "MATLAB Scripts (ZIP)" %}} (This file contains: 6 .m files.)
 
 
 {{< tdclose >}}
@@ -110,9 +119,9 @@ Roots of Non-linear Equations, Bracketing Methods: Bisection / False Position. O
 {{< tdopen >}}
 
 
-[Lecture 3 (PDF)]({{< baseurl >}}/resources/mit2_29s15_lecture3)
+{{% resource_link 1a349d72-0027-51e4-5471-1956d00c42a6 "Lecture 3 (PDF)" %}}
 
-[MATLAB Scripts (ZIP)]({{< baseurl >}}/resources/codes_3_2p29_s15) (This file contains: 4 .m files.)
+{{% resource_link bb1f3ea9-6f61-a8c8-5383-b21dda52e92c "MATLAB Scripts (ZIP)" %}} (This file contains: 4 .m files.)
 
 
 {{< tdclose >}}
@@ -154,9 +163,9 @@ Systems of Linear Equations: Motivations and Plans, Direct Methods, Gauss Elimin
 {{< tdopen >}}
 
 
-[Lecture 4 (PDF)]({{< baseurl >}}/resources/mit2_29s15_lecture4)
+{{% resource_link 99968f80-0481-60f7-598a-6d00b37b2c48 "Lecture 4 (PDF)" %}}
 
-[MATLAB Scripts (ZIP)]({{< baseurl >}}/resources/codes_4_2p29_s15) (This file contains: 4 .m files.)
+{{% resource_link cc3c2284-571d-8873-3c5c-5b852c4f6c1f "MATLAB Scripts (ZIP)" %}} (This file contains: 4 .m files.)
 
 
 {{< tdclose >}}
@@ -175,9 +184,9 @@ Systems of Linear Equations. Gaussian Elimination (Special Cases, Multiple Right
 {{< tdopen >}}
 
 
-[Lecture 5 (PDF)]({{< baseurl >}}/resources/mit2_29s15_lecture5)
+{{% resource_link 911ee683-a874-c35e-f3d0-0b63922e97ce "Lecture 5 (PDF)" %}}
 
-[MATLAB Scripts (ZIP)]({{< baseurl >}}/resources/codes_5_2p29_s15) (This file contains: 5 .m files.)
+{{% resource_link 77bfc559-d71a-cd47-a4c2-fc87ec036185 "MATLAB Scripts (ZIP)" %}} (This file contains: 5 .m files.)
 
 
 {{< tdclose >}}
@@ -225,9 +234,9 @@ Systems of Linear Equations. Special Matrices: LU Decompositions, Tri-diagonal S
 {{< tdopen >}}
 
 
-[Lecture 6 (PDF)]({{< baseurl >}}/resources/mit2_29s15_lecture6)
+{{% resource_link c5feb444-63a8-c913-d025-d636ba383850 "Lecture 6 (PDF)" %}}
 
-[MATLAB Scripts (ZIP)]({{< baseurl >}}/resources/codes_6_2p29_s15) (This file contains: 4 .m files.)
+{{% resource_link afe71aaa-7980-7a64-53b3-eb772452dc05 "MATLAB Scripts (ZIP)" %}} (This file contains: 4 .m files.)
 
 
 {{< tdclose >}}
@@ -244,7 +253,7 @@ Systems of Linear Equations. Special Matrices: LU Decompositions, Tri-diagonal S
 Systems of Linear Equations. Iterative Methods: Jacobi's Method, Gauss-seidel Iteration, Convergence, Successive Over-relaxation Methods, Gradient Methods, Stop Criteria, Examples.
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 7 (PDF)]({{< baseurl >}}/resources/mit2_29s15_lecture7)
+{{% resource_link 1839ca0d-0ab0-b2de-100c-75d5a629331e "Lecture 7 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 \[Chapra and Canale\] Sections 11.1–11.3.
@@ -261,9 +270,9 @@ End of Systems of Linear Equations: Gradient Methods, Pre-conditioning. Krylov M
 {{< tdopen >}}
 
 
-[Lecture 8 (PDF)]({{< baseurl >}}/resources/mit2_29s15_lecture8)
+{{% resource_link c6c41d22-b990-dda0-228a-1152cb54ee3a "Lecture 8 (PDF)" %}}
 
-[MATLAB Scripts (ZIP)]({{< baseurl >}}/resources/codes_8_2p29_s15) (This file contains: 2 .m files.)
+{{% resource_link 00a7d2aa-8c8c-8cae-0fc1-093459d38334 "MATLAB Scripts (ZIP)" %}} (This file contains: 2 .m files.)
 
 
 {{< tdclose >}}
@@ -286,7 +295,7 @@ End of Systems of Linear Equations: Gradient Methods, Pre-conditioning. Krylov M
 FD Schemes: Finite Difference Based on Taylor Series for Higher Order Accuracy Differences. Examples. Taylor Tables or Method of Undetermined Coefficients.
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 9 (PDF)]({{< baseurl >}}/resources/mit2_29s15_lecture9)
+{{% resource_link 1db62980-9ad5-068c-c7c8-50bc00a129e7 "Lecture 9 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -309,9 +318,9 @@ FD Schemes: Polynomial Approximations (Newton, Lagrange, Hermite and Pade Scheme
 {{< tdopen >}}
 
 
-[Lecture 10 (PDF - 1.7MB)]({{< baseurl >}}/resources/mit2_29s15_lecture10)
+{{% resource_link b3fb10a0-b1c3-0764-ddfd-ae43833d4e34 "Lecture 10 (PDF - 1.7MB)" %}}
 
-[MATLAB Scripts (ZIP)]({{< baseurl >}}/resources/codes_10_2p29_s15) (This file contains: 1 .m files.)
+{{% resource_link cab05fe9-6474-1b45-dfc5-dda361cc2810 "MATLAB Scripts (ZIP)" %}} (This file contains: 1 .m files.)
 
 
 {{< tdclose >}}
@@ -336,7 +345,7 @@ FD Schemes: Polynomial Approximations (Newton, Lagrange, Hermite and Pade Scheme
 Finite-differences: Fourier Error Analysis, Introduction to Stability: Heuristic, Energy and Von Neumann Methods, Hyperbolic PDEs, Characteristics.
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 11 (PDF)]({{< baseurl >}}/resources/mit2_29s15_lecture11)
+{{% resource_link 4c777583-2176-aa3d-de29-04bd3074b970 "Lecture 11 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -359,7 +368,7 @@ Finite-differences: Fourier Error Analysis, Introduction to Stability: Heuristic
 Stability, Hyperbolic Eqns. Revisited, CFL Condition and Von Neumann Stability, Elliptic Equations Revisited and FD Schemes.
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 12 (PDF)]({{< baseurl >}}/resources/mit2_29s15_lecture12)
+{{% resource_link 2234450f-edad-6f5c-9478-fd33e3f1d723 "Lecture 12 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -382,9 +391,9 @@ End of Elliptic / Hyperbolic Equations, Special Advection Schemes (Donor Cell, F
 {{< tdopen >}}
 
 
-[Lecture 13 (PDF)]({{< baseurl >}}/resources/mit2_29s15_lecture13)
+{{% resource_link ffbfde08-713f-dc49-7ae9-da9a3c721043 "Lecture 13 (PDF)" %}}
 
-[MATLAB Scripts (ZIP)]({{< baseurl >}}/resources/codes_13_2p29_s15) (This file contains: 2 .m files.)
+{{% resource_link 81e1f015-0d00-83d7-3281-bce792bed28d "MATLAB Scripts (ZIP)" %}} (This file contains: 2 .m files.)
 
 
 {{< tdclose >}}
@@ -403,9 +412,9 @@ Finite Volume Methods.
 {{< tdopen >}}
 
 
-[Lecture 14 (PDF - 1.3MB)]({{< baseurl >}}/resources/mit2_29s15_lecture14)
+{{% resource_link b9ada91a-bb3a-b791-0c87-f8193c6c6611 "Lecture 14 (PDF - 1.3MB)" %}}
 
-[MATLAB Scripts (ZIP)]({{< baseurl >}}/resources/codes_14_2p29_s15) (This file contains: 9 .m files.)
+{{% resource_link 51406ceb-4ff9-337d-84e6-d88d14832956 "MATLAB Scripts (ZIP)" %}} (This file contains: 9 .m files.)
 
 
 {{< tdclose >}}
@@ -457,7 +466,7 @@ Recitation-finite Volume Methods (cont.)
 Methods for Unsteady Problems. Time Marching Methods. Ordinary Differential Equations (ODEs). Initial Value Problems (IVPs). Euler's Method. Runge-kutta Methods.
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 15 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit2_29s15_lecture15)
+{{% resource_link 07fd2c48-de5c-2297-8e05-5e01a18a50de "Lecture 15 (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -480,7 +489,7 @@ Methods for Unsteady Problems. Time Marching Methods. Ordinary Differential Equa
 Time Marching (cont.): Higher Order ODEs, Stiffness and Multistep Methods. Solutions of the Navier Stokes Equation, Incompressible and Compressible.
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 16 (PDF)]({{< baseurl >}}/resources/mit2_29s15_lecture16)
+{{% resource_link 2d82a564-12b0-a9bc-cdda-6d2df153a413 "Lecture 16 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -503,7 +512,7 @@ Time Marching (cont.): Higher Order ODEs, Stiffness and Multistep Methods. Solut
 Solutions of the Navier Stokes Equation: Incompressible and Compressible. Pressure-correction, Fractional Step.
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 17 (PDF- 1.2MB)]({{< baseurl >}}/resources/mit2_29s15_lecture17)
+{{% resource_link fe059a32-b366-0a94-6048-d3a687612440 "Lecture 17 (PDF- 1.2MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -524,7 +533,7 @@ Solutions of the Navier Stokes Equation: Incompressible and Compressible. Pressu
 Solutions of the Navier Stokes Equation: Incompressible and Compressible. Vorticity, Artificial Compressibility and Other Methods.
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 18 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit2_29s15_lecture18)
+{{% resource_link 16669ec6-37ef-ae84-68b8-a85049bfbaf8 "Lecture 18 (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -545,7 +554,7 @@ Solutions of the Navier Stokes Equation: Incompressible and Compressible. Vortic
 Grid Generation and complex Geometries.
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 19 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit2_29s15_lecture19)
+{{% resource_link 765313c7-5c64-0191-ca68-e174f5296720 "Lecture 19 (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -574,9 +583,9 @@ Finite Element Methods: Introduction. Fluid Applications.
 {{< tdopen >}}
 
 
-[Lecture 20 (PDF - 1.6MB)]({{< baseurl >}}/resources/mit2_29s15_lecture20)
+{{% resource_link c45b1a86-17e2-ab33-9243-86a0a4ef7b90 "Lecture 20 (PDF - 1.6MB)" %}}
 
-[MATLAB Scripts (ZIP)]({{< baseurl >}}/resources/codes_20_2p29_s15) (This file contains: 6 .m files.)
+{{% resource_link 48576887-ca8b-c978-31d3-9bd3e933a0c7 "MATLAB Scripts (ZIP)" %}} (This file contains: 6 .m files.)
 
 
 {{< tdclose >}}
@@ -603,7 +612,7 @@ Fletcher, C. A. J. _Computational Techniques for Fluid Dynamics, Vol. 1: Fundame
 Finite Element Methods (cont.): Continuous Galerkin and Discontinuous Galerkin Methods. Spectral Methods.
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 21 (PDF - 2.2MB)]({{< baseurl >}}/resources/mit2_29s15_lecture21)
+{{% resource_link 23d02f13-5fb9-49b2-7c08-9c7ce5cab176 "Lecture 21 (PDF - 2.2MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -626,7 +635,7 @@ Finite Element Methods (cont.): Continuous Galerkin and Discontinuous Galerkin M
 Lecture / Recitation. Inviscid Flow Equations: Boundary Element Methods. Panel Methods.
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 22 (PDF - 1.8MB)]({{< baseurl >}}/resources/mit2_29s15_lecture22)
+{{% resource_link 9ad09481-140a-9d83-b7da-e3204c6798ba "Lecture 22 (PDF - 1.8MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -674,7 +683,7 @@ ODEs–Boundary Value Problems.
 Turbulent Flows: Models and Numerical Simulations.
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 23 (PDF - 2.2MB)]({{< baseurl >}}/resources/mit2_29s15_lecture23)
+{{% resource_link 669bcc04-8247-c0e2-dd63-97561ba27e07 "Lecture 23 (PDF - 2.2MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -695,7 +704,7 @@ Turbulent Flows: Models and Numerical Simulations.
 Finite Volume on Complex Geometries: Turbulent Flows and Their Numerical Modeling.
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 24 (PDF - 1.3MB)]({{< baseurl >}}/resources/mit2_29s15_lecture24)
+{{% resource_link d8a80685-74c1-2e35-4a73-8b1c8d87e788 "Lecture 24 (PDF - 1.3MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -720,7 +729,7 @@ Finite Volume on Complex Geometries: Turbulent Flows and Their Numerical Modelin
 Turbulence
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 25 (PDF)]({{< baseurl >}}/resources/mit2_29s15_lecture25)
+{{% resource_link d25cbd1c-2b5d-3473-04cf-f5732b8a9645 "Lecture 25 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 

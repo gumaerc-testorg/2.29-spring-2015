@@ -1,7 +1,14 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, quizzes, and assignments.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 026abf13-d62c-8939-5820-02ec50a4e6f1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Session Key
@@ -44,7 +51,7 @@ Introduction to numerical fluid mechanics: Models to simulations, error types. A
 R1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to MATLAB®
+Introduction to MATLAB{{< sup "®" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  

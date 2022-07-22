@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This section describes the final project for the course and gives examples
+  of titles of past student project presentations.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 996024c1-a9cb-eb2b-defb-af4318f9b536
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 There will be a final project for this class. Students can select the topic of their project in consultation with the instructor. Possible projects include:
