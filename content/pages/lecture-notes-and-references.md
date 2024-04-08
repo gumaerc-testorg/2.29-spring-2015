@@ -20,7 +20,7 @@ References Key
 
 \[Ferziger and Peric\] = Ferziger, Joel H., and Milovan Peric. _Computational Methods for Fluid Dynamics_. 3rd ed. Springer, 2013. ISBN: 9783540420743.
 
-\[Kundu et al.\] = Kundu, Pijush K., Ira M. Cohen, and David R. Dowling. _Fluid Mechanics_. 6th ed. Academic Press, 2015. ISBN: 9780124059351. \[Preview with [Google Books](http://books.google.com/books?id=EehDBAAAQBAJ&pg=PAfrontcover)\]
+\[Kundu et al.\] = Kundu, Pijush K., Ira M. Cohen, and David R. Dowling. _Fluid Mechanics_. 6th ed. Academic Press, 2015. ISBN: 9780124059351. \[Preview with {{% resource_link "2a2fd1ad-de5c-4917-8a0a-7c21f987ef5f" "Google Books" %}}\]
 
 \[White\] = White, Frank. _Fluid Mechanics_. 7th ed. McGraw-Hill Education, 2010. ISBN: 9780077422417.
 
@@ -30,7 +30,7 @@ References Key
 
 \[Cebeci et al.\] = Cebeci, Tuncer, Jian P. Shao, et al. _Computational Fluid Dynamics for Engineers: From Panel to Navier-stokes Methods with Computer Programs_. Springer, 2005. ISBN: 9783540244516.
 
-\[Wendt\] = Wendt, John. _Computational Fluid Dynamics: An Introduction_. Springer, 2008. ISBN: 9783540850557. \[Preview with [Google Books](http://books.google.com/books?id=IIUkqI-HNbQC&pg=PAfrontcover)\]
+\[Wendt\] = Wendt, John. _Computational Fluid Dynamics: An Introduction_. Springer, 2008. ISBN: 9783540850557. \[Preview with {{% resource_link "7562139d-64ac-46f9-93a2-2ef2a361f3b1" "Google Books" %}}\]
 
 \[Löhner\] = Löhner, Rainald. _Applied Computational Fluid Dynamics Techniques: An Introduction Based on Finite Element Methods_. Wiley, 2008. ISBN: 9780470519073.
 
@@ -594,7 +594,7 @@ Finite Element Methods: Introduction. Fluid Applications.
 
 \[Chapra and Canale\] Sections 31.1–31.4.
 
-Fletcher, C. A. J. _Computational Techniques for Fluid Dynamics, Vol. 1: Fundamental and General Techniques_. Springer, 2013. ISBN: 9783540530589. \[Preview with [Google Books](http://books.google.com/books?id=KplQ9VP--cwC&pg=PAfrontcover)\]
+Fletcher, C. A. J. _Computational Techniques for Fluid Dynamics, Vol. 1: Fundamental and General Techniques_. Springer, 2013. ISBN: 9783540530589. \[Preview with {{% resource_link "cabb4964-f968-4089-bc52-f4c81c9fbebe" "Google Books" %}}\]
 
 \[Wendt\] Chapter 10.
 
@@ -742,7 +742,7 @@ Turbulence
 
 \[Cebeci et al.\] Chapter 3.
 
-Durbin, Paul A., and Gorazd Medic. _Fluid Dynamics with a Computational Perspective_. Cambridge University Press, 2007. ISBN: 9780521850179. \[Preview with [Google Books](http://books.google.com/books?id=4clIj_YBD6MC&pg=PAfrontcover)\]
+Durbin, Paul A., and Gorazd Medic. _Fluid Dynamics with a Computational Perspective_. Cambridge University Press, 2007. ISBN: 9780521850179. \[Preview with {{% resource_link "95ece7bb-5cfc-4516-92ae-ccf29821a225" "Google Books" %}}\]
 
 
 {{< tdclose >}}
