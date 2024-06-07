@@ -2,6 +2,7 @@
 content_type: resource
 description: This special resource contains the information regarding codes 1.
 file: /courses/2-29-numerical-fluid-mechanics-spring-2015/a6e39e36efe12a94765ab2263184e5e9_codes_1_2p29_S15.zip
+file_size: 1100
 file_type: application/zip
 learning_resource_types:
 - Lecture Notes

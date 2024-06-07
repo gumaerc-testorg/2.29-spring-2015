@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains scripting information regarding problem set 6.
 file: /courses/2-29-numerical-fluid-mechanics-spring-2015/1ed10dad7b1054c9c8db92797ce606cb_MATLAB_Script_for_Problem_Set6.txt
+file_size: 1160
 file_type: text/plain
 learning_resource_types:
 - Assignments

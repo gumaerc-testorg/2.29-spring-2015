@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-29-numerical-fluid-mechanics-spring-2015/509e762cbc01f802a3cf44725eb61bd5_Lyn_sys_solver.m.txt
+file_size: 564
 file_type: text/plain
 learning_resource_types:
 - Assignments
