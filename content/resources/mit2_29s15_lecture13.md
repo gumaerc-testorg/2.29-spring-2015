@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding lecture 13 slides.
 file: /courses/2-29-numerical-fluid-mechanics-spring-2015/ffbfde08713fdc497ae9da9a3c721043_MIT2_29S15_Lecture13.pdf
+file_size: 1075625
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

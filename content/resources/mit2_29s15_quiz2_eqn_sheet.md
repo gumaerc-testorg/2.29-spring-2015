@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding equation sheet for quiz 2.
 file: /courses/2-29-numerical-fluid-mechanics-spring-2015/0f9fc28aa79f21119a59d80da0b3fd5b_MIT2_29S15_Quiz2_eqn_sheet.pdf
+file_size: 976649
 file_type: application/pdf
 learning_resource_types:
 - Exams
