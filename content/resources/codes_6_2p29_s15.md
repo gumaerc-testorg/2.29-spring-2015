@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This special resource contains the information regarding codes 6.
-file: /ol-ocw-studio-app/courses/2-29-numerical-fluid-mechanics-spring-2015/afe71aaa79807a6453b3eb772452dc05_codes_6_2p29_S15.zip
+file: /courses/2-29-numerical-fluid-mechanics-spring-2015/afe71aaa79807a6453b3eb772452dc05_codes_6_2p29_S15.zip
 file_size: 2169
 file_type: application/zip
 learning_resource_types:
