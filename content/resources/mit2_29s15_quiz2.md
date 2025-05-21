@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding quiz 2.
-file: /ol-ocw-studio-app/courses/2-29-numerical-fluid-mechanics-spring-2015/11b9e62cb948e3bf2c760e3f43dae345_MIT2_29S15_Quiz2.pdf
+file: /courses/2-29-numerical-fluid-mechanics-spring-2015/11b9e62cb948e3bf2c760e3f43dae345_MIT2_29S15_Quiz2.pdf
 file_size: 296783
 file_type: application/pdf
 learning_resource_types:

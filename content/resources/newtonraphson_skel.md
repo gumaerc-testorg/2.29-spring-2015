@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/2-29-numerical-fluid-mechanics-spring-2015/b5e5221631e49419e1cdd677782e6518_NewtonRaphson_skel.zip
+file: /courses/2-29-numerical-fluid-mechanics-spring-2015/b5e5221631e49419e1cdd677782e6518_NewtonRaphson_skel.zip
 file_size: 700
 file_type: application/zip
 learning_resource_types:

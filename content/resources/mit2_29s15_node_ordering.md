@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding node ordering, numbering, and
   boundary conditions.
-file: /ol-ocw-studio-app/courses/2-29-numerical-fluid-mechanics-spring-2015/cc4c949436993bc56aa209d1dcf31ad8_MIT2_29S15_Node_Ordering.pdf
+file: /courses/2-29-numerical-fluid-mechanics-spring-2015/cc4c949436993bc56aa209d1dcf31ad8_MIT2_29S15_Node_Ordering.pdf
 file_size: 348962
 file_type: application/pdf
 learning_resource_types:
