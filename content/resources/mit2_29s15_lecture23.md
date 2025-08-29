@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding lecture 23 slides.
-file: /courses/2-29-numerical-fluid-mechanics-spring-2015/669bcc048247c0e2dd6397561ba27e07_MIT2_29S15_Lecture23.pdf
+file: /ol-ocw-studio-app/courses/2-29-numerical-fluid-mechanics-spring-2015/669bcc048247c0e2dd6397561ba27e07_MIT2_29S15_Lecture23.pdf
 file_size: 2343930
 file_type: application/pdf
 learning_resource_types:
