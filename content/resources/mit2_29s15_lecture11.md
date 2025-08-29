@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding lecture 11 slides.
-file: /courses/2-29-numerical-fluid-mechanics-spring-2015/4c7775832176aa3dde2904bd3074b970_MIT2_29S15_Lecture11.pdf
+file: /ol-ocw-studio-app/courses/2-29-numerical-fluid-mechanics-spring-2015/4c7775832176aa3dde2904bd3074b970_MIT2_29S15_Lecture11.pdf
 file_size: 1098194
 file_type: application/pdf
 learning_resource_types:

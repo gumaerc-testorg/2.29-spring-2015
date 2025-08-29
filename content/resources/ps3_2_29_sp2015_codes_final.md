@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/2-29-numerical-fluid-mechanics-spring-2015/44b6a59deb791dbb1ab1dad9f62969f2_PS3_2_29_SP2015_Codes_final.zip
+file: /ol-ocw-studio-app/courses/2-29-numerical-fluid-mechanics-spring-2015/44b6a59deb791dbb1ab1dad9f62969f2_PS3_2_29_SP2015_Codes_final.zip
 file_size: 4615
 file_type: application/zip
 learning_resource_types:
