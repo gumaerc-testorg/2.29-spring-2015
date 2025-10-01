@@ -34,7 +34,7 @@ Prerequisites
 
 and any of these courses in fluid dynamics:
 
-[_2.006 Thermal-Fluids Engineering II_](http://student.mit.edu/catalog/m2a.html#2.006)
+{{% resource_link "b3779509-a934-4e6e-ab2b-5333f21ffee0" "_2.006 Thermal-Fluids Engineering II_" %}}
 
 [_2.06 Fluid Dynamics_](/courses/2-06-fluid-dynamics-spring-2013)
 
@@ -146,7 +146,7 @@ Cebeci, Tuncer, Jian P. Shao, et al. _Computational Fluid Dynamics for Engineers
 
 ### Fluid Dynamics References
 
-Kundu, Pijush K., Ira M. Cohen, and David R. Dowling. _Fluid Mechanics_. 6th ed. Academic Press, 2015. ISBN: 9780124059351. \[Preview with [Google Books](http://books.google.com/books?id=EehDBAAAQBAJ&pg=PAfrontcover)\]
+Kundu, Pijush K., Ira M. Cohen, and David R. Dowling. _Fluid Mechanics_. 6th ed. Academic Press, 2015. ISBN: 9780124059351. \[Preview with {{% resource_link "b978af3e-70c2-4ebd-ad83-660b9e04e9f6" "Google Books" %}}\]
 
 White, Frank. _Fluid Mechanics_. 7th ed. McGraw-hill Education, 2010. ISBN: 9780077422417.
 
@@ -160,25 +160,25 @@ Versteeg, H., and W. Malalasekera. _An Introduction to Computational Fluid Dynam
 
 Durran, Dale R. _Numerical Methods for Fluid Dynamics: With Applications to Geophysics_. 2nd ed. Springer, 2010. ISBN: 9781441964113.
 
-Griebel, Michael, Thomas Dornsheifer, and Tilman Neunhoeffer. _Numerical Simulation in Fluid Dynamics: A Practical Introduction_. SIAM: Society for Industrial and Applied Mathematics, 1997. ISBN: 9780898713985. \[Preview with [Google Books](http://books.google.com/books?id=h9e4WVVeXwMC&pg=PAfrontcover)\]
+Griebel, Michael, Thomas Dornsheifer, and Tilman Neunhoeffer. _Numerical Simulation in Fluid Dynamics: A Practical Introduction_. SIAM: Society for Industrial and Applied Mathematics, 1997. ISBN: 9780898713985. \[Preview with {{% resource_link "1da831a1-ff87-4f65-b50f-66f814f8978f" "Google Books" %}}\]
 
-Chung, T. J. _Computational Fluid Dynamics_. 2nd ed. Cambridge University Press, 2010. ISBN: 9780521769693. \[Preview with [Google Books](http://books.google.com/books?id=Cq6tqmMVJREC&pg=PAfrontcover)\]
+Chung, T. J. _Computational Fluid Dynamics_. 2nd ed. Cambridge University Press, 2010. ISBN: 9780521769693. \[Preview with {{% resource_link "95114c56-6042-4806-9a91-dadc836e9f68" "Google Books" %}}\]
 
 Karniadakis, George Em, and Spencer J. Sherwin. _Spectral / hp Element Methods for Computational Fluid Dynamics_. 2nd ed. Oxford University Press, 2005. ISBN: 9780198528692.
 
-Pozrikidis, Constantine. _Introduction to Finite and Spectral Element Methods Using MATLAB_. 2nd ed. Chapman and Hall / CRC, 2014. ISBN: 9781482209150. \[Preview with [Google Books](http://books.google.com/books?id=7syuAwAAQBAJ&pg=PAfrontcover)\]
+Pozrikidis, Constantine. _Introduction to Finite and Spectral Element Methods Using MATLAB_. 2nd ed. Chapman and Hall / CRC, 2014. ISBN: 9781482209150. \[Preview with {{% resource_link "2431898a-3bf6-4be0-bf7b-7a999b9cfb91" "Google Books" %}}\]
 
 Roache, Patrick J. _Fundamentals of Computational Fluid Dynamics_. Hermosa Publishers, 1998. ISBN: 9780913478097.
 
 Lapidus, Leon, and George F. Pinder. _Numerical Solution of Partial Differential Equations in Science and Engineering_. Wiley-interscience, 1999. ISBN: 9780471359449.
 
 Fletcher, C. A. J. _Computational Techniques for Fluid Dynamics, Vol. 1: Fundamental and General Techniques._ Springer, 2013. ISBN: 9780387530581.  
-\[Preview with [Google Books](http://books.google.com/books?id=KplQ9VP--cwC&pg=PAfrontcover)\]
+\[Preview with {{% resource_link "1f7bb579-33de-46f4-8d18-be4c9b611267" "Google Books" %}}\]
 
-Wendt, John. _Computational Fluid Dynamics: An Introduction_. Springer, 2008. ISBN: 9783540850557. \[Preview with [Google Books](http://books.google.com/books?id=IIUkqI-HNbQC&pg=PAfrontcover)\]
+Wendt, John. _Computational Fluid Dynamics: An Introduction_. Springer, 2008. ISBN: 9783540850557. \[Preview with {{% resource_link "90f94741-b273-4bf8-bf45-af9eaf478889" "Google Books" %}}\]
 
 Löhner, Rainald. _Applied Computational Fluid Dynamics Techniques: An Introduction Based on Finite Element Methods_. Wiley, 2008. ISBN: 9780470519073.
 
 ### Numerical Linear Algebra Reference
 
-Trefethen, Lloyd N., and David Bau III. _Numerical Linear Algebra_. SIAM: Society for Industrial and Applied Mathematics, 1997. ISBN: 9780898713619. \[Preview with [Google Books](http://books.google.com/books?id=4Mou5YpRD_kC&pg=PAfrontcover)\]
+Trefethen, Lloyd N., and David Bau III. _Numerical Linear Algebra_. SIAM: Society for Industrial and Applied Mathematics, 1997. ISBN: 9780898713619. \[Preview with {{% resource_link "578cba8b-20fc-4572-8c7c-fd5d7e776c7e" "Google Books" %}}\]
